@@ -1,0 +1,16 @@
+vk-content-factory/
+│
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── vk.py
+│   ├── database.py
+│   └── scheduler.py
+│
+├── data/
+│   └── .gitkeep
+│
+├── requirements.txt
+├── Dockerfile
+├── .gitignore
+└── README.md
